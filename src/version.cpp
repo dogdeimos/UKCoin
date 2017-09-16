@@ -11,7 +11,7 @@
 const std::string CLIENT_NAME("UKC");
 
 // Client version number
-#define CLIENT_VERSION_SUFFIX   "OS II"
+#define CLIENT_VERSION_SUFFIX   "OS III"
 
 
 // The following part of the code determines the CLIENT_BUILD variable.
