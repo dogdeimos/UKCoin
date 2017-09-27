@@ -99,7 +99,7 @@ public:
           }
         }
         nTargetTimespan = 12 * nTargetSpacing;
-        nLastPoWBlock = 50000;
+        nLastPoWBlock = 5000000;
         nStartPoSBlock = 3000;
     }
 
